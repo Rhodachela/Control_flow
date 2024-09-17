@@ -9,6 +9,6 @@ elif student_score >= 70:
 elif student_score >= 60:
     grade = "D"
 else:
-    grade = "F"
+    grade = "E"
 
 print("Your grade is: " + str(grade))
